@@ -1,0 +1,10 @@
+Whipping cream 250ml.NL001 0 5 hop 
+Cream chese 500g.NL002 0 3 hop 
+Trung ga.NL003 0 30 qua 
+Bot ca phe.NL004 0 100 gram 
+Banh sampa.NL005 0 50 cai 
+Ruou Rum.NL006 0 100 ml 
+Tra tui loc Cozy.NL007 0 3 hop 
+Sot Caramel 2l.NL008 0 3 chai 
+Bot sua kem beo 1kg.NL009 0 2 bich 
+Bot rau cau con ca.NL010 0 3 hop 

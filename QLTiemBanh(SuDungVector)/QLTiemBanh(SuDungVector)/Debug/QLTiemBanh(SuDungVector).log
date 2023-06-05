@@ -1,0 +1,88 @@
+﻿  ConNguoi.cpp
+  CTKM.cpp
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\CTKM.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\CTKM.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\CTKM.cpp(135,31): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\CTKM.cpp(162,27): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\CTKM.cpp(175,35): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\CTKM.cpp(189,27): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\CTKM.cpp(202,35): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\CTKM.cpp(227,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\CTKM.cpp(256,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\CTKM.cpp(264,31): warning C4018: '<': signed/unsigned mismatch
+  Drink.cpp
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Drink.cpp(73,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Drink.cpp(89,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Drink.cpp(130,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Drink.cpp(138,31): warning C4018: '<': signed/unsigned mismatch
+  Food.cpp
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Food.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Food.cpp(98,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Food.cpp(134,27): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Food.cpp(150,35): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Food.cpp(164,27): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Food.cpp(180,35): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Food.cpp(222,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Food.cpp(230,31): warning C4018: '<': signed/unsigned mismatch
+  HoaDon.cpp
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\HoaDon.cpp(97,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\HoaDon.cpp(118,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\HoaDon.cpp(190,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\HoaDon.cpp(199,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\HoaDon.cpp(231,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\HoaDon.cpp(239,31): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\HoaDon.cpp(372,23): warning C4018: '<': signed/unsigned mismatch
+  KhachHang.cpp
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\KhachHang.cpp(89,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\KhachHang.cpp(107,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\KhachHang.cpp(136,31): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\KhachHang.cpp(156,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\KhachHang.cpp(164,31): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\KhachHang.cpp(203,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\KhachHang.cpp(248,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\KhachHang.cpp(261,31): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\KhachHang.cpp(375,23): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\MatKhau.h(171,31): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\MatKhau.h(180,31): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\MatKhau.h(393,23): warning C4018: '<': signed/unsigned mismatch
+  NguyenLieu.cpp
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NguyenLieu.cpp(74,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NguyenLieu.cpp(107,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NguyenLieu.cpp(149,27): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NguyenLieu.cpp(161,35): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NguyenLieu.cpp(179,27): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NguyenLieu.cpp(192,35): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NguyenLieu.cpp(217,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NguyenLieu.cpp(228,31): warning C4018: '<': signed/unsigned mismatch
+  NhanVien.cpp
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NhanVien.cpp(89,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NhanVien.cpp(135,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NhanVien.cpp(164,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NhanVien.cpp(172,31): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NhanVien.cpp(192,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NhanVien.cpp(205,31): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NhanVien.cpp(232,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NhanVien.cpp(256,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NhanVien.cpp(295,31): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\NhanVien.cpp(445,23): warning C4018: '<': signed/unsigned mismatch
+  SanPham.cpp
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\SanPham.cpp(78,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\SanPham.cpp(96,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\SanPham.cpp(133,27): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\SanPham.cpp(146,35): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\SanPham.cpp(160,27): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\SanPham.cpp(173,35): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\SanPham.cpp(216,23): warning C4018: '<': signed/unsigned mismatch
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\SanPham.cpp(224,31): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Date.h(69): warning C4715: 'Date::kiemTra': not all control paths return a value
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Date.h(69): warning C4715: 'Date::kiemTra': not all control paths return a value
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\HoaDon.cpp(325): warning C4715: 'HoaDon::getslTungSP': not all control paths return a value
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\HoaDon.cpp(382): warning C4715: 'HoaDon::apDungMaKM': not all control paths return a value
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\HoaDon.cpp(320): warning C4715: 'HoaDon::getcacSPMua': not all control paths return a value
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Date.h(69): warning C4715: 'Date::kiemTra': not all control paths return a value
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Date.h(69): warning C4715: 'Date::kiemTra': not all control paths return a value
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Date.h(69): warning C4715: 'Date::kiemTra': not all control paths return a value
+D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\QLTiemBanh(SuDungVector)\Date.h(69): warning C4715: 'Date::kiemTra': not all control paths return a value
+  QLTiemBanh(SuDungVector).vcxproj -> D:\TAI LIEU LAM VIEC\LAM VIEC CA NHAN\V.STUDIO 2019\Code C++\2122 HK3 - OOP\QLTiemBanh(SuDungVector)\Debug\QLTiemBanh(SuDungVector).exe

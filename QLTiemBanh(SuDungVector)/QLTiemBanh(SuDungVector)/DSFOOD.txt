@@ -1,0 +1,30 @@
+F001,Banh mi cha bong,Cai,15000 10
+ 7  8 2022
+ 7  9 2022
+F002,Banh Tiramisu,Mieng,20000 10
+ 7  8 2022
+10  8 2022
+F003,Creper Sau rieng,Mieng,35000 10
+ 7  8 2022
+15  8 2022
+F004,Bong lan trung muoi,Cai,50000 5
+11  8 2022
+20  9 2022
+F005,Banh mi bo toi,cai,55000 3
+11  8 2022
+15  8 2022
+F006,Sua chua pho mai nuong,cai,62000 2
+11  8 2022
+12  8 2022
+F007,Cookies Chocolate,350g,130000 5
+ 8  8 2022
+ 8 12 2022
+F008,Banh sung trau,cai,25000 10
+11  8 2022
+30  8 2022
+F009,Banh trung thu TC,cai,75000 5
+11  8 2022
+11 10 2022
+F010,Banh mi Sai Gon,o,25000 0
+ 1  1 2000
+ 1  1 2000

@@ -1,0 +1,15 @@
+D001,Tra sua tran chau,Ly,25000 0
+ 1  1 2000
+ 1  1 2000
+D002,Tra dau,Ly,30000 0
+ 1  1 2000
+ 1  1 2000
+D003,Espreso/ Americano,Ly,49000 0
+ 1  1 2000
+ 1  1 2000
+D004,Tra thach dao,Ly,55000 0
+ 1  1 2000
+ 1  1 2000
+D005,Tra xanh dau do,Ly,55000 0
+ 1  1 2000
+ 1  1 2000
